@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+
+<h3 align="center">A passionate Frontend Developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcego&label=Profile%20views&color=0e75b6&style=flat" alt="mrcego" /> </p>
 
@@ -17,7 +18,7 @@
 
 - 📄 Know about my experiences [https://cesargomezh.github.io/me](https://cesargomezh.github.io/me)
 
-- ⚡ Fun fact **7 years playing with frontend development 🙂**
+- ⚡ Fun fact **7+ years playing with frontend development 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
