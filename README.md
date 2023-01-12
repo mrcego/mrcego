@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/codingwithcego" target="blank"><img src="https://img.shields.io/twitter/follow/codingwithcego?logo=twitter&style=for-the-badge" alt="codingwithcego" /></a> </p>
 
-- 🔭 I’m currently working on [Spanish Vite.js docs](https://github.com/vitejs/docs-es) and Elk' Mastodon client spanish translation
+- 🔭 I’m currently working on [Spanish Vite.js docs](https://github.com/vitejs/docs-es) and [Elk'](https://github.com/elk-zone/elk) Mastodon client spanish translation
 
 - 🌱 I’m currently learning **Advanced Typescript and Nuxt 3**
 
