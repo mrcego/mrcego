@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advanced Typescript and Nuxt 3**
 
-- 💬 Ask me about **Vue.js (2,3), Vite.js (2,3), Vuetify, Quasar**
+- 💬 Ask me about **Vue.js (2,3), Nuxt 2, Vite.js (2,3,4), Vuetify, Quasar, Tailwind**
 
 - 📫 How to reach me **cesargomezh90@gmail.com**
 
