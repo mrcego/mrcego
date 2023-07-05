@@ -8,23 +8,23 @@
 
 <p align="left"> <a href="https://twitter.com/codingwithcego" target="blank"><img src="https://img.shields.io/twitter/follow/codingwithcego?logo=twitter&style=for-the-badge" alt="codingwithcego" /></a> </p>
 
-- 🔭 I’m currently working on [Spanish Vite.js docs](https://github.com/vitejs/docs-es) and [Elk'](https://github.com/elk-zone/elk) Mastodon client spanish translation
+- 🔭 I’m currently working on [Spanish Vite.js docs](https://github.com/vitejs/docs-es) and [Elk'](https://github.com/elk-zone/elk) Mastodon client spanish translation.
 
-- 🌱 I’m currently learning **Advanced Typescript and Nuxt 3**
+- 🌱 I’m currently learning **Advanced Typescript and Nuxt 3**.
 
-- 💬 Ask me about **Vue.js (2,3), Nuxt 2, Vite.js (2,3,4), Vuetify, Quasar, Tailwind**
+- 💬 Ask me about **Vue.js (2,3), Nuxt (2,3), Vite.js (2,3,4), Vuetify, Quasar, Tailwind, Typescript, Building Web Components with Vue 3**.
 
-- 📫 How to reach me **cesargomezh90@gmail.com**
+- 📫 How to reach me: **cesargomezh90@gmail.com**.
 
-- 📄 Know about my experiences [https://cesargomezh.github.io/me](https://cesargomezh.github.io/me)
+- 📄 Know about my experiences: [https://cesargomezh.github.io/me](https://cesargomezh.github.io/me).
 
-- ⚡ Fun fact **7+ years playing with frontend development 🙂**
+- ⚡ Fun fact: **7+ years playing with frontend development 🙂**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codingwithcego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingwithcego" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrcego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrcego" height="30" width="40" /></a>
-<a href="https://discord.gg/TheMrCego#7769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TheMrCego#7769" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/500319256987172866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TheMrCego#7769" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
