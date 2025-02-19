@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer from Colombia</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Vite.js Spanish docs](https://github.com/vitejs/docs-es) and [Vue.js Spanish docs](https://github.com/icarusgk/vuejs-spanish-docs). Emeriti in [Elk' Mastodon client](https://github.com/elk-zone/elk) spanish translation. I'm working with a combo between Web Components and Vue 3. <br><br>🌱 I’m currently learning Advanced Typescript and Nuxt 3.<br><br>💬 Ask me about Vue.js (2,3), Nuxt (2,3), Vite.js (^2), Vuetify, Quasar, Tailwind, Typescript, Building Web Components with Vue 3.<br><br>📫 How to reach me: cesargomezh90@gmail.com.<br><br>📄 Know about my experiences: https://cesargomezh.github.io/me.<br><br>⚡ Fun fact: 9+ years playing with frontend development 🙂.
+🔭 I’m currently working on [Vite.js Spanish docs](https://github.com/vitejs/docs-es) and [Vue.js Spanish docs](https://github.com/icarusgk/vuejs-spanish-docs). Emeriti in [Elk' Mastodon client](https://github.com/elk-zone/elk) spanish translation. I'm working with a combo between Web Components and Vue 3. <br><br>🌱 I’m currently learning Advanced Typescript and Nuxt 3.<br><br>💬 Ask me about Vue.js (2,3), Nuxt (2,3), Vite.js (^2), Vuetify, Quasar, Tailwind, Typescript, Building Web Components with Vue 3.<br><br>📫 How to reach me: cesargomezh90@gmail.com.<br><br>📄 Know about my experiences: https://cesargomezh.github.io/me.<br><br>⚡ Fun fact: 10+ years playing with frontend development 🙂.
 
 
 ## 🌐 Socials:
@@ -25,10 +25,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrcego&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mrcego&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
