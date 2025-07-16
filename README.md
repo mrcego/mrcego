@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋! I'm César, a passionate frontend developer from Colombia!</h1>
+<h1 align="center">Hi👋! I'm César, a passionate fullstack developer from Colombia!</h1>
 
 ###
 
